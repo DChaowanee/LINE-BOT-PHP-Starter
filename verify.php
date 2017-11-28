@@ -1,5 +1,5 @@
 <?php
-$access_token = 'zPLxyisAI/WlxaO/DGFFIP2FBHgkkkUDdp9tWHUyn69M/eUINGmCQ4aCJ0QQsNLzz/K5eeGjViPYZQMOB7o3WTxPYvY71UaNKtLPnYA6csbb2OH31GaSjjeYkJoaNaSpkB/N6xdoBNyTlD5NXrbhYwdB04t89/1O/w1cDnyilFU=';
+$access_token = 'cptUylptlTr7UCnfwBrWPRKdPp4Sxf9210yvXSPtwu0jHkem7nnu62b1y+sHZYuyz/K5eeGjViPYZQMOB7o3WTxPYvY71UaNKtLPnYA6csa96tRV9uUQCTo+BpCmQzO7NzTLmlR8jVE1qFCiB1HKVwdB04t89/1O/w1cDnyilFU=';
 
 $url = 'https://line-bot-1234.herokuapp.com/verify.php';
 
